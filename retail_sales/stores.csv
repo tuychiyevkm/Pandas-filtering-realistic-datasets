@@ -1,0 +1,13 @@
+store_id,store_name,city,opened_date,is_franchise
+S100,Store #1,Jizzakh,2021-09-10,False
+S101,Store #2,Tashkent,2018-11-20,False
+S102,Store #3,Bukhara,2019-09-25,False
+S103,Store #4,Tashkent,2018-05-24,True
+S104,Store #5,Namangan,2016-08-09,True
+S105,Store #6,Jizzakh,2018-01-24,False
+S106,Store #7,Nukus,2016-08-09,True
+S107,Store #8,Namangan,2017-01-13,False
+S108,Store #9,Jizzakh,2016-05-30,False
+S109,Store #10,Samarkand,2023-06-11,False
+S110,Store #11,Jizzakh,2017-08-06,True
+S111,Store #12,Samarkand,2023-09-07,False

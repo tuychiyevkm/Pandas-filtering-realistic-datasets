@@ -1,0 +1,121 @@
+product_id,product_name,category,brand,unit_price,is_discontinued
+P10000,FreshCo Classic Salmon,Beverages,EcoLine,6.7,True
+P10001,CityFresh Eco Milk,Snacks,Maxi,1.67,False
+P10002,GoodFarm Family Tea,Meat,MegaFoods,14.02,False
+P10003,UzDelight Eco IceCream,Meat,Maxi,10.58,False
+P10004,CityFresh Classic Salmon,Snacks,GoodFarm,14.06,False
+P10005,FreshCo Eco Milk,Beverages,CityFresh,5.78,True
+P10006,CityFresh Light IceCream,Personal Care,MegaFoods,4.75,False
+P10007,FreshCo Eco Bread,Produce,Nordic,6.93,False
+P10008,GoodFarm Premium Bread,Produce,EcoLine,4.25,False
+P10009,Sunrise Light Salmon,Snacks,HappyLife,5.85,False
+P10010,EcoLine Family Milk,Meat,GoodFarm,5.75,False
+P10011,HappyLife Eco Apples,Household,CityFresh,9.89,False
+P10012,Nordic Premium Chicken,Snacks,HappyLife,5.39,False
+P10013,FreshCo Classic Detergent,Personal Care,FreshCo,9.49,False
+P10014,MegaFoods Premium Milk,Snacks,GoodFarm,4.78,False
+P10015,FreshCo Family Bread,Dairy,EcoLine,4.03,True
+P10016,Maxi Classic Detergent,Seafood,Sunrise,10.46,False
+P10017,HappyLife Pro Chips,Meat,MegaFoods,6.56,False
+P10018,HappyLife Eco Bread,Frozen,Maxi,10.36,False
+P10019,CityFresh Premium Chicken,Frozen,EcoLine,8.49,True
+P10020,GoodFarm Family Chips,Meat,MegaFoods,2.92,False
+P10021,HappyLife Classic IceCream,Personal Care,HappyLife,2.76,False
+P10022,MegaFoods Classic Detergent,Dairy,Maxi,3.72,False
+P10023,CityFresh Light Shampoo,Dairy,UzDelight,2.91,False
+P10024,Maxi Premium Chicken,Beverages,Nordic,9.34,False
+P10025,Sunrise Pro Bread,Seafood,FreshCo,6.93,False
+P10026,GoodFarm Family Milk,Produce,GoodFarm,4.84,False
+P10027,FreshCo Eco Milk,Bakery,EcoLine,4.63,False
+P10028,HappyLife Pro Salmon,Personal Care,FreshCo,8.53,False
+P10029,UzDelight Classic Detergent,Bakery,Sunrise,3.78,False
+P10030,MegaFoods Eco Apples,Bakery,MegaFoods,10.52,False
+P10031,CityFresh Pro IceCream,Meat,MegaFoods,7.52,False
+P10032,UzDelight Family Chicken,Frozen,EcoLine,4.64,False
+P10033,Nordic Light Detergent,Frozen,CityFresh,5.73,False
+P10034,Nordic Family Chips,Produce,CityFresh,7.03,False
+P10035,MegaFoods Eco Apples,Meat,UzDelight,1.473,False
+P10036,Sunrise Light Chips,Bakery,Nordic,4.76,False
+P10037,EcoLine Family Chicken,Household,Maxi,11.21,False
+P10038,GoodFarm Eco Tea,Frozen,Sunrise,10.01,False
+P10039,CityFresh Light Chicken,Personal Care,FreshCo,7.14,False
+P10040,EcoLine Eco Salmon,Personal Care,CityFresh,5.39,False
+P10041,Maxi Eco IceCream,Beverages,UzDelight,9.61,False
+P10042,HappyLife Premium IceCream,Snacks,UzDelight,4.27,True
+P10043,FreshCo Family Apples,Household,EcoLine,8.32,False
+P10044,EcoLine Classic Bread,Frozen,Sunrise,4.76,False
+P10045,CityFresh Light Shampoo,Dairy,HappyLife,2.871,True
+P10046,MegaFoods Light Detergent,Frozen,Maxi,15.17,False
+P10047,HappyLife Eco Salmon,Beverages,Nordic,4.45,False
+P10048,MegaFoods Classic Detergent,Personal Care,GoodFarm,7.25,False
+P10049,Sunrise Family Chicken,Bakery,EcoLine,20.82,False
+P10050,HappyLife Premium Shampoo,Dairy,Maxi,4.43,False
+P10051,Nordic Family Tea,Meat,GoodFarm,4.67,False
+P10052,Maxi Premium Apples,Seafood,GoodFarm,13.32,False
+P10053,Maxi Family Milk,Bakery,Sunrise,7.77,False
+P10054,UzDelight Pro IceCream,Seafood,Sunrise,6.78,False
+P10055,EcoLine Eco Shampoo,Household,FreshCo,16.79,False
+P10056,Sunrise Eco Bread,Snacks,UzDelight,9.11,False
+P10057,Sunrise Premium IceCream,Dairy,Maxi,6.15,False
+P10058,Nordic Light Shampoo,Produce,EcoLine,11.43,False
+P10059,GoodFarm Pro Apples,Dairy,MegaFoods,7.02,True
+P10060,Nordic Eco Shampoo,Frozen,EcoLine,6.42,False
+P10061,Nordic Pro Bread,Personal Care,FreshCo,10.35,False
+P10062,Maxi Eco Bread,Frozen,Nordic,8.83,True
+P10063,FreshCo Family Milk,Frozen,UzDelight,10.76,False
+P10064,CityFresh Eco Shampoo,Household,MegaFoods,17.04,False
+P10065,UzDelight Family Bread,Bakery,CityFresh,2.44,False
+P10066,CityFresh Pro IceCream,Produce,Nordic,5.29,True
+P10067,MegaFoods Pro Chips,Produce,Sunrise,5.16,False
+P10068,EcoLine Family Milk,Frozen,GoodFarm,3.92,False
+P10069,FreshCo Pro Milk,Seafood,CityFresh,8.01,False
+P10070,Nordic Eco Shampoo,Household,EcoLine,7.76,False
+P10071,Nordic Eco Bread,Frozen,EcoLine,1.64,False
+P10072,EcoLine Eco Bread,Snacks,Sunrise,10.77,False
+P10073,UzDelight Classic Salmon,Personal Care,FreshCo,4.51,False
+P10074,FreshCo Premium Bread,Bakery,Maxi,6.94,False
+P10075,FreshCo Light Detergent,Meat,CityFresh,12.55,False
+P10076,Nordic Eco Tea,Snacks,CityFresh,3.38,False
+P10077,FreshCo Pro Bread,Seafood,HappyLife,7.97,False
+P10078,Sunrise Light Chicken,Dairy,Nordic,5.06,False
+P10079,UzDelight Classic Shampoo,Dairy,UzDelight,7.02,False
+P10080,GoodFarm Classic Bread,Snacks,Nordic,7.33,False
+P10081,HappyLife Premium Milk,Frozen,Maxi,9.78,False
+P10082,FreshCo Pro Chicken,Meat,EcoLine,7.11,False
+P10083,Nordic Classic Milk,Beverages,EcoLine,3.91,False
+P10084,GoodFarm Light Shampoo,Beverages,EcoLine,3.33,False
+P10085,EcoLine Pro Shampoo,Seafood,HappyLife,2.56,False
+P10086,EcoLine Eco Apples,Frozen,EcoLine,6.29,False
+P10087,Sunrise Classic Apples,Produce,Maxi,6.73,False
+P10088,HappyLife Eco Bread,Produce,Sunrise,6.96,False
+P10089,Nordic Premium Bread,Bakery,UzDelight,35.5,False
+P10090,UzDelight Premium Milk,Meat,Maxi,52.65,False
+P10091,FreshCo Classic Bread,Meat,UzDelight,6.05,False
+P10092,Nordic Classic Chicken,Dairy,Maxi,4.19,False
+P10093,Maxi Family IceCream,Household,EcoLine,7.84,False
+P10094,Maxi Family Apples,Seafood,Sunrise,10.33,False
+P10095,CityFresh Family Shampoo,Beverages,CityFresh,6.31,False
+P10096,Nordic Family Salmon,Seafood,Nordic,8.63,False
+P10097,EcoLine Family IceCream,Produce,GoodFarm,5.06,False
+P10098,HappyLife Pro Shampoo,Produce,Sunrise,4.1,False
+P10099,Maxi Eco Chicken,Snacks,CityFresh,9.91,False
+P10100,Maxi Eco Bread,Bakery,FreshCo,13.71,False
+P10101,CityFresh Light Bread,Meat,Maxi,6.8,False
+P10102,MegaFoods Premium Detergent,Personal Care,FreshCo,9.38,False
+P10103,GoodFarm Family Chips,Seafood,CityFresh,8.05,True
+P10104,FreshCo Light Salmon,Produce,Sunrise,4.19,False
+P10105,Nordic Premium IceCream,Household,Maxi,11.75,False
+P10106,Sunrise Eco Shampoo,Dairy,GoodFarm,7.87,False
+P10107,HappyLife Family IceCream,Beverages,EcoLine,13.64,False
+P10108,Maxi Eco Shampoo,Bakery,Maxi,6.62,False
+P10109,GoodFarm Premium Apples,Household,Maxi,5.46,True
+P10110,EcoLine Premium Apples,Bakery,Sunrise,5.67,False
+P10111,CityFresh Classic Milk,Snacks,Sunrise,7.91,False
+P10112,EcoLine Classic Apples,Personal Care,CityFresh,5.45,False
+P10113,Maxi Eco Detergent,Produce,MegaFoods,2.89,False
+P10114,FreshCo Premium Apples,Dairy,Maxi,18.03,False
+P10115,Sunrise Premium Detergent,Household,Nordic,4.09,False
+P10116,UzDelight Pro Salmon,Bakery,Maxi,10.01,False
+P10117,FreshCo Classic IceCream,Meat,CityFresh,9.23,False
+P10118,MegaFoods Family Shampoo,Snacks,UzDelight,13.25,False
+P10119,Maxi Pro Tea,Meat,FreshCo,14.14,False

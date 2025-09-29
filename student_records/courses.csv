@@ -1,0 +1,31 @@
+course_id,course_code,course_name,credits,semester
+CRS500,BIOL400,Intro to World History,3,Spring 2025
+CRS501,CS200,Intro to AI,2,Fall 2024
+CRS502,ECON300,Intro to AI,3,Spring 2025
+CRS503,HIST100,Intro to Syntax,3,Spring 2025
+CRS504,ECON100,Intro to Algebra,4,Fall 2024
+CRS505,PHYS200,Intro to Mechanics,2,Fall 2024
+CRS506,BIOL200,Intro to Algebra,3,Spring 2025
+CRS507,MATH400,Intro to Algebra,5,Spring 2025
+CRS508,LING100,Intro to Organic Chem,4,Spring 2025
+CRS509,LING200,Intro to Organic Chem,3,Fall 2024
+CRS510,ENGR400,Intro to Syntax,2,Fall 2024
+CRS511,ECON200,Intro to Mechanics,2,Spring 2025
+CRS512,PHYS400,Intro to Microeconomics,3,Spring 2025
+CRS513,BIOL200,Intro to World History,3,Spring 2025
+CRS514,ECON300,Intro to Microeconomics,3,Fall 2024
+CRS515,CS100,Intro to World History,3,Spring 2025
+CRS516,ENGR100,Intro to Ethics,2,Spring 2025
+CRS517,BIOL400,Intro to World History,2,Spring 2025
+CRS518,ECON400,Intro to Genetics,3,Fall 2024
+CRS519,ECON200,Intro to Ethics,4,Spring 2025
+CRS520,MATH400,Intro to Ethics,4,Spring 2025
+CRS521,PHIL300,Intro to Syntax,3,Fall 2024
+CRS522,HIST200,Intro to Circuits,4,Fall 2024
+CRS523,MATH300,Intro to Genetics,3,Fall 2024
+CRS524,LING100,Intro to Ethics,5,Fall 2024
+CRS525,CHEM200,Intro to AI,3,Spring 2025
+CRS526,PHYS300,Intro to Organic Chem,3,Fall 2024
+CRS527,BIOL300,Intro to Genetics,3,Fall 2024
+CRS528,BIOL400,Intro to Organic Chem,2,Spring 2025
+CRS529,HIST300,Intro to Circuits,3,Fall 2024
